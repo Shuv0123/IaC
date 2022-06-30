@@ -1,6 +1,6 @@
 # Terraform
 
-1[](images/IaC.png)
+![](images/IaC.png)
 
 ## What is Terraform
 - Terraform is an open-source infrastructure as code software tool.
