@@ -20,3 +20,7 @@ The servers can be configured by using one of the two ways:
 ## Configuartion Mangement & Orchestration
 - Configuration management tools like Chef, Puppet, and Ansible help configure the software and systems on this infrastructure that has already been provisioned.
 - Orchestration tools, which include Terraform and AWS CloudFormation, are designed to automate the deployment of servers and other infrastructure.
+
+>[Ansible](ansible.md)
+
+>[Terraform](terraform.md)
